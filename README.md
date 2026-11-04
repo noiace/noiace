@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif" width="160" alt="Dancing Go gopher" />
 
-### hello there
+### Hello there
 
 im backend developer - python, go, ai security
 
@@ -33,4 +33,3 @@ A centralized platform for automated security testing of large language models a
 ## Contact
 
 - Email: [no1lace21@gmail.com](mailto:no1lace21@gmail.com)
-- GitHub: [@noiace](https://github.com/noiace)
