@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif" width="160" alt="Dancing Go gopher" />>
+<img align="right" src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif" width="160" alt="Dancing Go gopher" />
 
 ### hello there
 
