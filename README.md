@@ -1,6 +1,8 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif" width="160" alt="Dancing Go gopher" />
+   <img src="./assets/gopher.gif"
+       width="130"
+       alt="Go Gopher">
   <h1>Hi, I'm a Backend Developer</h1>
   <p>Backend Developer · Python · Go · AI Security</p>
 </div>
