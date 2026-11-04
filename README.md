@@ -11,20 +11,20 @@
 
 ---
 
-### 🚀 Ключевые проекты
+### 🚀 Must have projects
 
 * **[Llamator](https://github.com/noiace/llamator_service)** — централизованная система для автоматизированного тестирования уязвимостей больших языковых моделей к атакам типа промпт-инъекций *(Python, FastAPI, Kafka, Celery, Docker, PostgreSQL)*.
 
 ---
 
-### 📈 Статистика GitHub
+### 📈 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Твой_Ник&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noiace&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 ---
 
-### 📫 Как связаться со мной
+### 📫 How to connect
 
 * **Email:** no1lace21@gmail.com
