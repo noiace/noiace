@@ -1,17 +1,12 @@
+<div align="left">
+  <img align="right" src="./assets/gopher.gif" width="150" alt="Go Gopher">
 
-<div align="center">
-<p align="center">
-  <img src="./assets/gopher.gif"
-       width="130"
-       alt="Go Gopher">
-</p>
-  <h1>Hi, I'm a Backend Developer</h1>
-  <p>Backend Developer · Python · Go · AI Security</p>
+  ### hello there
+
+  im backend developer - python, go, ai security
 </div>
 
-## About
-
-Backend developer focused on APIs, distributed systems, and automation. I work mainly with Python and am exploring Go for backend services. I'm also interested in AI security and automated LLM testing.
+<br clear="right"/>
 
 ## Technology Stack
 
@@ -21,7 +16,7 @@ Backend developer focused on APIs, distributed systems, and automation. I work m
 | Backend | FastAPI, SQLAlchemy, Celery |
 | Databases & Messaging | PostgreSQL, Redis, Apache Kafka |
 | Tools & Infrastructure | Docker, Git, Linux, WSL |
-| Focus Areas | Backend Development, Distributed Systems, AI Security & Automation |
+| Focus Areas | Backend Development, AI Security & Automation |
 
 ## Featured Project
 
@@ -34,7 +29,7 @@ A centralized platform for automated security testing of large language models a
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noiace&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for noiace" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noiace&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 </p>
 
 ## Contact
