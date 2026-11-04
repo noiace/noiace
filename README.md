@@ -1,4 +1,4 @@
-<img align="right" src="./assets/gopher.gif" width="130" alt="Go Gopher" />
+<img align="right" src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/2bit-sprite/demo.gif" width="130" alt="Go Gopher" />
 
 ### hello there
 
