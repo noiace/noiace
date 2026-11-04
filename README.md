@@ -1,8 +1,10 @@
 
 <div align="center">
-   <img src="./assets/gopher.gif"
+<p align="center">
+  <img src="./assets/gopher.gif"
        width="130"
        alt="Go Gopher">
+</p>
   <h1>Hi, I'm a Backend Developer</h1>
   <p>Backend Developer · Python · Go · AI Security</p>
 </div>
