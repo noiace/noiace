@@ -24,12 +24,6 @@ A centralized platform for automated security testing of large language models a
 
 **Stack:** Python, FastAPI, Apache Kafka, Celery, PostgreSQL, Docker.
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noiace&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for noiace" />
-</p>
-
 ## Contact
 
 - Email: [no1lace21@gmail.com](mailto:no1lace21@gmail.com)
